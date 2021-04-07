@@ -3,6 +3,8 @@
 THREE APPLICATIONS IN ONE
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<
+
+
 Messages App
 - push notifications
 - real-time messaging (firestore)
@@ -13,6 +15,8 @@ Messages App
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<
+
+
 Ecommerce
 --use of jpg files from the web
 --get user zip code data (rest api)
@@ -21,6 +25,8 @@ Ecommerce
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<
+
+
 Movies app
 --get movie data (rest api)
 - see movie trailer from the app
